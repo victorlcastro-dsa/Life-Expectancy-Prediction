@@ -1,7 +1,7 @@
 # 🧬 Data Analysis and AI Model Project for Life Expectancy 
 **`Under development`**
 
-## Part 1: Data Analysis
+## Part 1: Data Analysis (EDA)
 
 ### 🎯 Objectives
 
