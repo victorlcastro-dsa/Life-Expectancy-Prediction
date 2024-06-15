@@ -30,16 +30,31 @@ The objective of this project is to answer five valuable business questions rela
 
 #### 3. Specific Analysis to Answer Questions
 
-- Use clustering techniques to identify factors influencing life expectancy.
+- Use Python techniques to identify factors influencing life expectancy.
 - Perform temporal analysis to observe changes in life expectancy over the years.
-- Conduct regression analysis to investigate the relationship between healthcare expenditure and life expectancy.
+- Conduct correlation analysis to investigate the relationship between healthcare expenditure and life expectancy.
 - Analyze the correlation between immunizations and life expectancy.
 - Perform regional analysis on the impact of alcohol consumption on life expectancy.
+
+#### 4. Exporting the updated dataset
+
+- Export the file in `.csv` for use in: [Model Training Notebook](https://github.com/victorlcastro-dsa/LifeExpectancy/blob/1892efa8069ea78b1a3a1be18794d23961437945/notebook/MODEL%20TRAINING.ipynb)
 
 ### 🛠️ Tools Used
 
 - Python
-- Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+
+Libraries:
+1. Pandas
+2. Matplotlib
+3. Seaborn
+4. Scikit-Learn
+5. Scipy
+6. Statsmodels
+7. Requests
+8. Functools
+9. Concurrent.Futures
+10. OS
 
 ## Part 2: Project Extension - AI Model
 
