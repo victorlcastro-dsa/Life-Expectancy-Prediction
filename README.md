@@ -1,7 +1,7 @@
 # 🧬 Data Analysis and AI Model Project for Life Expectancy 
 **`Under development`**
 
-## Part 1: Data Analysis (EDA)
+## Part 1: Data Analysis ([EDA](https://github.com/victorlcastro-dsa/LifeExpectancy/blob/main/notebook/EDA.ipynb))
 
 ### 🎯 Objectives
 
@@ -56,7 +56,7 @@ Libraries:
 9. Concurrent.Futures
 10. OS
 
-## Part 2: Project Extension - AI Model
+## Part 2: Project Extension - [AI Model](https://github.com/victorlcastro-dsa/LifeExpectancy/blob/1892efa8069ea78b1a3a1be18794d23961437945/notebook/)
 
 ### 🎯 Objective
 
