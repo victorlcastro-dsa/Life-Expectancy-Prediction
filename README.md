@@ -56,7 +56,7 @@ Libraries:
 9. Concurrent.Futures
 10. OS
 
-## Part 2: Project Extension - [AI Model](https://github.com/victorlcastro-dsa/LifeExpectancy/blob/1892efa8069ea78b1a3a1be18794d23961437945/notebook/)
+## Part 2: Project Extension - [AI Model](https://github.com/victorlcastro-dsa/LifeExpectancy/blob/1892efa8069ea78b1a3a1be18794d23961437945/notebook/MODEL%20TRAINING.ipynb)
 
 ### 🎯 Objective
 
