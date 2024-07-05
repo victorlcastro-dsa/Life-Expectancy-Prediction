@@ -38,7 +38,7 @@ The objective of this project is to answer five valuable business questions rela
 
 #### 4. Exporting the updated dataset
 
-- Export the file in `.csv` for use in: [Model Training Notebook](https://github.com/victorlcastro-dsa/LifeExpectancy/blob/1892efa8069ea78b1a3a1be18794d23961437945/notebook/MODEL%20TRAINING.ipynb)
+- Export the file in `.csv` for use in: [Model Training Notebook](https://github.com/victorlcastro-dsa/LifeExpectancy/blob/main/notebook/MODEL%20TRAINING.ipynb)
 
 ### 🛠️ Tools Used
 
@@ -56,7 +56,7 @@ Libraries:
 9. Concurrent.Futures
 10. OS
 
-## Part 2: Project Extension - [AI Model](https://github.com/victorlcastro-dsa/LifeExpectancy/blob/1892efa8069ea78b1a3a1be18794d23961437945/notebook/MODEL%20TRAINING.ipynb)
+## Part 2: Project Extension - [AI Model](https://github.com/victorlcastro-dsa/LifeExpectancy/blob/main/notebook/MODEL%20TRAINING.ipynb)
 
 ### 🎯 Objective
 
