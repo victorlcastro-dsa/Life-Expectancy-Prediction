@@ -1,7 +1,7 @@
 # 🧬 Data Analysis and AI Model Project for Life Expectancy 
 **`Completed`**
 
-## Part 1: Data Analysis ([EDA](https://github.com/victorlcastro-dsa/LifeExpectancy/blob/main/notebook/EDA.ipynb))
+## Part 1: Data Analysis ([EDA](https://github.com/victorlcastro-dsa/LifeExpectancy/blob/46e172c6d204536a2cfdf340964f74566a0cdc02/notebook/EDA.ipynb))
 
 ### 🎯 Objectives
 
@@ -38,27 +38,10 @@ The objective of this project is to answer five valuable business questions rela
 
 #### 4. Exporting the updated dataset
 
-- Export the file in `.csv` for use in: [Model Training Notebook](https://github.com/victorlcastro-dsa/LifeExpectancy/blob/main/notebook/MODEL%20TRAINING.ipynb)
+- Export the file in `.csv` for use in: [Model Training Notebook](https://github.com/victorlcastro-dsa/LifeExpectancy/blob/46e172c6d204536a2cfdf340964f74566a0cdc02/notebook/MODEL%20TRAINING.ipynb)
 
-### 🛠️ Tools Used
 
-- Python
-
-Libraries:
-1. Pandas
-2. Numpy
-3. Matplotlib
-4. Seaborn
-5. Scipy
-6. Statsmodels
-7. Scikit-learn
-8. Requests
-9. Xgboost
-10. Shap
-11. Graphviz
-12. Joblib
-
-## Part 2: Project Extension - [AI Model](https://github.com/victorlcastro-dsa/LifeExpectancy/blob/main/notebook/MODEL%20TRAINING.ipynb)
+## Part 2: Project Extension - [AI Model](https://github.com/victorlcastro-dsa/LifeExpectancy/blob/46e172c6d204536a2cfdf340964f74566a0cdc02/notebook/MODEL%20TRAINING.ipynb)
 
 ### 🎯 Objective
 
@@ -88,9 +71,27 @@ Develop a predictive model to estimate life expectancy based on the provided dat
 - Train the final model with the best parameters.
 - Save the trained model for future use.
 
+---
+
 ### 🛠️ Tools Used
 
+**Programming Language**
 - Python
-- Libraries: Pandas, NumPy, Scikit-learn, XGBoost, Joblib
 
-The foundational structure and initial version of the model are complete, providing a solid base for the project. Future updates will focus on **refining** and **optimizing** the code to align with industry standards and enhance overall performance.
+**Libraries**
+1. Pandas
+2. Numpy
+3. Matplotlib
+4. Seaborn
+5. Scipy
+6. Statsmodels
+7. Scikit-learn
+8. Requests
+9. Xgboost
+10. Shap
+11. Graphviz
+12. Joblib
+
+---
+
+## The foundational structure and initial version of the model are complete, providing a solid base for the project. Future updates will focus on **refining** and **optimizing** the code to align with industry standards and enhance overall performance.
