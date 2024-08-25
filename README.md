@@ -1,5 +1,5 @@
 # 🧬 Data Analysis and AI Model Project for Life Expectancy 
-**`Under development`**
+**`Completed`**
 
 ## Part 1: Data Analysis ([EDA](https://github.com/victorlcastro-dsa/LifeExpectancy/blob/main/notebook/EDA.ipynb))
 
@@ -46,15 +46,17 @@ The objective of this project is to answer five valuable business questions rela
 
 Libraries:
 1. Pandas
-2. Matplotlib
-3. Seaborn
-4. Scikit-Learn
+2. Numpy
+3. Matplotlib
+4. Seaborn
 5. Scipy
 6. Statsmodels
-7. Requests
-8. Functools
-9. Concurrent.Futures
-10. OS
+7. Scikit-learn
+8. Requests
+9. Xgboost
+10. Shap
+11. Graphviz
+12. Joblib
 
 ## Part 2: Project Extension - [AI Model](https://github.com/victorlcastro-dsa/LifeExpectancy/blob/main/notebook/MODEL%20TRAINING.ipynb)
 
@@ -91,10 +93,4 @@ Develop a predictive model to estimate life expectancy based on the provided dat
 - Python
 - Libraries: Pandas, NumPy, Scikit-learn, XGBoost, Joblib
 
-## Part 3: Web Implementation
-
-### 🎯 Objective
-
-Integrate the predictive model into a web application where users can input data and obtain life expectancy predictions.
-
-`More information will be added throughout the development of the project`
+The foundational structure and initial version of the model are complete, providing a solid base for the project. Future updates will focus on **refining** and **optimizing** the code to align with industry standards and enhance overall performance.
